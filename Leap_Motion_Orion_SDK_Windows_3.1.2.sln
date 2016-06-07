@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leap_Motion_Orion_SDK_Windows_3.1.2.CSharp", "Leap_Motion_Orion_SDK_Windows_3.1.2.CSharp.csproj", "{64FE4533-D948-8815-9745-EBD3D454D6F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leap_Motion_Orion_SDK_Windows_3.1.2.CSharp.Editor", "Leap_Motion_Orion_SDK_Windows_3.1.2.CSharp.Editor.csproj", "{7EF5AAB7-3AB3-0EDD-7AD0-54F3111AFA48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64FE4533-D948-8815-9745-EBD3D454D6F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64FE4533-D948-8815-9745-EBD3D454D6F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64FE4533-D948-8815-9745-EBD3D454D6F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64FE4533-D948-8815-9745-EBD3D454D6F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7EF5AAB7-3AB3-0EDD-7AD0-54F3111AFA48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EF5AAB7-3AB3-0EDD-7AD0-54F3111AFA48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EF5AAB7-3AB3-0EDD-7AD0-54F3111AFA48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EF5AAB7-3AB3-0EDD-7AD0-54F3111AFA48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
